@@ -1,4 +1,4 @@
-import Nav from 'Nav.css'
+import Nav from './Nav.css'
 import React from 'react'
 
 export default props =>
