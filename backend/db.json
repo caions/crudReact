@@ -1,11 +1,44 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@gmail.com"
-    },{
-        "id": 2,
-        "name": "Caio Nascimento",
-        "email": "caions@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Caio ",
+      "email": "caions@gmail.com"
+    },
+    {
+      "name": "caio",
+      "email": "caio@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "teste",
+      "email": "teste@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "vailha",
+      "email": "vailha@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "teste",
+      "email": "teste@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "email": "teste2@gmail",
+      "id": 7
+    },
+    {
+      "name": "teste3",
+      "email": "teste3@gadsf",
+      "id": 8
+    }
+  ]
 }
